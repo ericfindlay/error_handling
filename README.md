@@ -1,4 +1,4 @@
-Paste the code into your library. Use ``String`` for the return error type.
+Paste ``src.rs`` into your library. Use ``String`` for the return error type.
 
 ```
 pub fn error() -> Result<(), String> {
